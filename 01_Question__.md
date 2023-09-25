@@ -3,8 +3,7 @@
 
 **Return the result table in any order.**
 Customer table:
-**input** -
-|----|------|------------|
+**input** - 
 | id | name | referee_id |
 |----|------|------------|
 | 1  | Will | null       |
@@ -13,7 +12,6 @@ Customer table:
 | 4  | Bill | null       |
 | 5  | Zack | 1          |
 | 6  | Mark | 2          |
-|----|------|------------|
 
 **output** - 
 | name |
@@ -25,5 +23,5 @@ Customer table:
 
 
 ## solution
-``` SELECT name FROM Customer WHERE referee_id IS NULL OR referee_id != 2; ```
+`SELECT name FROM Customer WHERE referee_id IS NULL OR referee_id != 2;`
 
