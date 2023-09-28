@@ -47,6 +47,5 @@ In 2015-01-04, the temperature was higher than the previous day (20 -> 30).
 
 ```SQL
 SELECT t1.id
-FROM Weather t1
-JOIN Weather t2 ON t1.id = t2.id + 1
-WHERE t1.temperature > t2.temperature
+FROM Weather t1, Weather t2
+WHERE DATEDIFF(t1.recordDate, t2.recordDate) = 1 AND t1.temperature > t2.temperature;
