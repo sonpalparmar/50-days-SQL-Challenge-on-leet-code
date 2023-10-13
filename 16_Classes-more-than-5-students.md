@@ -12,7 +12,7 @@ Each row of this table indicates the name of a student and the class in which th
 
  **Write a solution to find all the classes that have at least five students.**
 
-Return the result table in any order.
+Return the result table in any order
 
 The result format is in the following example.
 
