@@ -1,5 +1,5 @@
 # 50-days-SQL-Challenge-on-leet-code
-**Find the names of the customer that are not referred by the customer with id = 2.**
+**Find the names of the customer that are not referred by the customer with id = 2**
 
 **Return the result table in any order.**
 
