@@ -1,7 +1,7 @@
 # 03_Product-Sales-Analysis-1
 **Problem Statement:**
 
-You are given two tables, `Sales` and `Product`, with the following structures:
+You are given two tables, `Sales` and `Product`, with the following structures:-
 
 **Table: Sales**
 
