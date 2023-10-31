@@ -1,11 +1,8 @@
-<h1>Hi 👋, I'm Sonpal Parmar</h1>
-<h3>Data is my playground.</h3>
-<h1>About me</h1>
+<h4>Hi 👋, I'm Sonpal Parmar</h4>
+<h6>Data is my playground.</h6>
+<h4>About me</h4>
 <p>Leveraging a dive deep into complex datasets. Creating compelling data visualizations to convey information effectively. Developing and applying machine learning algorithms to solve practical problems. Thriving in team environments, fostering collaboration for innovative solutions. Actively exploring opportunities to apply data science in impactful ways.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonpalparmar&label=Profile%20views&color=0e75b6&style=flat" alt="sonpalparmar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/parmarsonpal" target="blank"><img src="https://img.shields.io/twitter/follow/parmarsonpal?logo=twitter&style=for-the-badge" alt="parmarsonpal" /></a> </p>
 
 - 🌱 I’m currently learning **Spark, Big Data and ML**
 
