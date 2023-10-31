@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sonpal Parmar</h1>
-<h3 align="center">Data is my playground.</h3>
+<h1>Hi 👋, I'm Sonpal Parmar</h1>
+<h3>Data is my playground.</h3>
+<h1>About me</h1>
+<p>Leveraging a dive deep into complex datasets. Creating compelling data visualizations to convey information effectively. Developing and applying machine learning algorithms to solve practical problems. Thriving in team environments, fostering collaboration for innovative solutions. Actively exploring opportunities to apply data science in impactful ways.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonpalparmar&label=Profile%20views&color=0e75b6&style=flat" alt="sonpalparmar" /> </p>
 
