@@ -3,7 +3,7 @@
 
 **Problem Statement:**
 
-You are given a table named `Weather` with the following structure:
+You are given a table named `Weather` with the following structure
 
 **Table: Weather**
 
