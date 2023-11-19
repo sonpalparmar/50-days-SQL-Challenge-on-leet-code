@@ -9,7 +9,7 @@
 | order_date                  | date    |
 | customer_pref_delivery_date | date    |
 
-`delivery_id` is the column of unique values of this table. The table holds information about food delivery to customers that make orders at some date and specify a preferred delivery date (on the same order date or after it).
+`delivery_id` is the column of unique values of this table. The table holds information about food delivery to customers that make orders at some date and specify a preferred delivery date (on the same order date or after it)
 
 If the customer's preferred delivery date is the same as the order date, then the order is called immediate; otherwise, it is called scheduled.
 
